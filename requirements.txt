@@ -1,0 +1,10 @@
+These are the libraries used in this project with their corresponding versions:
+  collections==
+  csv==0.0.13
+  pickle==4.0
+  urllib==1.24
+  networkx==4.4.2
+  osmnx==1.1.1
+  haversine==2.3.2
+  staticmap==0.5.5
+  python-telegram-bot==13.5
