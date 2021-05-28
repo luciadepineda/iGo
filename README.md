@@ -12,7 +12,7 @@ In order that iGo works, it is necessary to install the libraries mentioned in t
 - "staticmap" for painting maps
 - "python-telegram-bot" to interact with Telegram
 
-The first three are standard and you do no tneed to do anything to have them. The other libraries can be installed with "pip3 install" or "sudo pip3 install" commands.
+The first three are standard and you do not need to do anything to have them. The other libraries can be installed with "pip3 install" or "sudo pip3 install" commands.
 However, osmnx takes some work: you must first do a "sudo apt install libspatialindex-dev" (in Ubuntu) or a "brew install spatialindex gdal" (in Mac).
 Moreover, you algo have to install the lastest installers:
 1. pip3 install --upgrade pip setuptools wheel
