@@ -3,3 +3,8 @@ iGo is a Telegram Bot implemented with Python. It guides users (in Barcelona) fr
 
 ## Installation
 In order that iGo works, it is necessary to install the libraries mentioned in the "requirements.txt" file attached.
+
+## Usage
+
+## Support
+In case you have any questions, do not hesitate to contact us: lucia.de.pineda@estudiantat.upc.edu / judith.devers@estudiantat.upc.edu
