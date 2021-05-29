@@ -27,5 +27,6 @@ The iGo Telegram Bot is very easy and intuitive to use. There are two options: t
 In case you have any questions, do not hesitate to contact us: lucia.de.pineda@estudiantat.upc.edu / judith.devers@estudiantat.upc.edu
 
 ## Images
+Here are some images showing the different commands available:
 ![IMG_2176](https://user-images.githubusercontent.com/83398396/120075200-990d0600-c0a0-11eb-991f-bef3082d428b.jpg)
 
