@@ -11,7 +11,7 @@ In order for iGo to work, it is necessary to install the libraries mentioned in 
 - "haversine" to calculate distances between coordinates
 - "staticmap" for painting maps
 - "python-telegram-bot" to interact with Telegram
-- "sklearn" to use the function 'osmnx.distance.nearest_nodes'
+- "scikit-learn" to use the function 'osmnx.distance.nearest_nodes'
 
 The first three are standard and you do not need to do anything to have them. The other libraries can be installed with "pip3 install" or "sudo pip3 install" commands.
 However, osmnx takes some work: you must first do a "sudo apt install libspatialindex-dev" (in Ubuntu) or a "brew install spatialindex gdal" (in Mac).
