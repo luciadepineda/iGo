@@ -31,10 +31,10 @@ Here are some images showing the different commands available:
 
 ![IMG_2176](https://user-images.githubusercontent.com/83398396/120075200-990d0600-c0a0-11eb-991f-bef3082d428b.jpg)
 
-IMG_2177.jpg![image](https://user-images.githubusercontent.com/83398396/120075634-6a902a80-c0a2-11eb-9385-ef1312aa4160.png)
+![image](https://user-images.githubusercontent.com/83398396/120075634-6a902a80-c0a2-11eb-9385-ef1312aa4160.png)
 
-IMG_2178.jpg![image](https://user-images.githubusercontent.com/83398396/120075719-b7740100-c0a2-11eb-8834-f40c34acbab0.png)
+![image](https://user-images.githubusercontent.com/83398396/120075719-b7740100-c0a2-11eb-8834-f40c34acbab0.png)
 
-IMG_2179.jpg![image](https://user-images.githubusercontent.com/83398396/120075726-be027880-c0a2-11eb-8a30-c0ae8dffa210.png)
+![image](https://user-images.githubusercontent.com/83398396/120075726-be027880-c0a2-11eb-8a30-c0ae8dffa210.png)
 
 
