@@ -2,7 +2,7 @@
 iGo is a Telegram Bot implemented with Python. It guides users (in Barcelona) from their current position to their destination by the fastest road by car, using the new concept of "itime", which takes into account the state of traffic in real time in certain sections of the city.
 
 ## Installation
-In order that iGo works, it is necessary to install the libraries mentioned in the "requirements.txt" file attached.
+In order for iGo to work, it is necessary to install the libraries mentioned in the "requirements.txt" file attached.
 - "csv" to read in CSV format
 - "pickle" to read and write data in Python from/to files
 - "urllib" to download files from the web
@@ -20,6 +20,7 @@ Moreover, you algo have to install the lastest installers:
 3. pip3 install --upgrade staticmap
 
 ## Usage
+The iGo Telegram Bot is very easy and intuitive to use. There are two options: the first is to use the command /where and send your location for the bot to know where you are, and then type /go destination and it will automatically show you the fastest route by car. The second option is to use the command /pos to fix a position of origin (instead of your actual location) and then use /go to specify the destination. Moreover, the command /help will explain all of this previously mentioned.
 
 ## Support
 In case you have any questions, do not hesitate to contact us: lucia.de.pineda@estudiantat.upc.edu / judith.devers@estudiantat.upc.edu
