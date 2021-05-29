@@ -22,8 +22,10 @@ Moreover, you algo have to install the lastest installers:
 
 ## Usage
 The iGo Telegram Bot is very easy and intuitive to use. There are two options: the first is to use the command /where and send your location for the bot to know where you are, and then type /go destination and it will automatically show you the fastest route by car. The second option is to use the command /pos to fix a position of origin (instead of your actual location) and then use /go to specify the destination. Moreover, the command /help will explain all of this previously mentioned.
-![IMG_2176](https://user-images.githubusercontent.com/83398396/120075200-990d0600-c0a0-11eb-991f-bef3082d428b.jpg)
-
 
 ## Support
 In case you have any questions, do not hesitate to contact us: lucia.de.pineda@estudiantat.upc.edu / judith.devers@estudiantat.upc.edu
+
+## Images
+![IMG_2176](https://user-images.githubusercontent.com/83398396/120075200-990d0600-c0a0-11eb-991f-bef3082d428b.jpg)
+
